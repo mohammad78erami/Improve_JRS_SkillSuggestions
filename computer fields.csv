@@ -1,0 +1,16 @@
+Category,Normalized
+Computer User Support Specialists,"Project_Manager, Systems_Administrator, Network_Administrator, Database_Administrator"
+"Software Developers, Applications","Software_Developer, Python_Developer, Java_Developer"
+"Software Developers, Systems Software","Software_Developer,Systems_Administrator"
+Computer and Information Systems Managers,"Systems_Administrator, Security_Analyst, Project_manager"
+Web Developers,"Web_Developer,Front_End_Developer,Java_Developer,Python_Developer,Database_Administrator"
+Information Technology Project Managers,Project_manager
+Computer Network Support Specialists,Network_Administrator
+Computer Network Architects,"Database_Administrator,Web_Developer,Network_Administrator"
+Software Quality Assurance Engineers and Testers,"Software_Developer, Project_manager,Software_Developer"
+Network and Computer Systems Administrators,"Database_Administrator,Systems_Administrator,Project_manager,Network_Administrator"
+Computer Systems Analysts,"Systems_Administrator,Python_Developer,Software_Developer, ,Project_manager,Network_Administrator,Security_Analyst,Security_Analyst"
+Computer Systems Engineers/Architects,"Project_manager,Systems_Administrator,Software_Developer,Database_Administrator,Security_Analyst"
+Computer Programmers,"Project_manager,Database_Administrator,Java_Developer,Python_Developer,Software_Developer,Systems_Administrator,Web_Developer,Software_Developer"
+Computer Hardware Engineers,"Systems_Administrator,Network_Administrator,Software_Developer"
+Database Administrators,"Database_Administrator,Network_Administrator,Systems_Administrator,Web_Developer,Software_Developer"
